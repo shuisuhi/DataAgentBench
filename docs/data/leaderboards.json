@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-10-21",
   "sources": [
     "DEPS_DEV_V1 query 1 re-scored 2026-08-18 by re-running its validate.py under a revised validator (accepting any of the 95 packages tied at fifth place on 57779 stars rather than the single tied package recorded in ground_truth.csv, see issue #86), from the same submission JSONs, with no other query changed",
     "All Pass@1 scores recomputed 2026-06-12 by re-running each query's validate.py under the current validators (including the regenerated PATENTS ground truths), from the submission JSONs in this repository or in the corresponding submission PR branches",
